@@ -16,3 +16,4 @@ A custom radio station mod for cyberpunk 2077
 * https://www.nexusmods.com/witcher3/mods/3192/
 * https://forums.cdprojektred.com/index.php?threads/tutorial-sound-extraction-and-basic-modding.56938/
 * https://wiki.step-project.com/NMS:Tutorials/Adding_Replacing_Audio
+* https://www.youtube.com/watch?v=39Oeb4GvxEc&ab_channel=HpXro
