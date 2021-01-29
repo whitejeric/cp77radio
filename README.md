@@ -5,11 +5,13 @@ A custom radio station mod for cyberpunk 2077
 * ~~locate all music .wem files extracted from soundbank 2~~
   * ~~sort by radio station, starting with royal blue~~
 * ~~rebuild .wem with custom files~~
+* ~~realize the user friendliness of an app that depends on retail software (wwise) isn't very condusive to the modding community~~
 * ~~realize the cp77 tools discord hasn't had any luck replacing audio yet~~
 * ~~embrace the fact you're a bit out of your depth~~
-* acceptance 
+* ~~accept your losses and move on to something else~~
 * build patch file with cp77 tools
 * create gui for above
+* dream
 
 ### resources:
 * https://residentevilmodding.boards.net/thread/11099/automated-wav-wem-conversion
